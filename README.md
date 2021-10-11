@@ -46,5 +46,6 @@ TODOPM
  - Tecnologías: [Flutter](https://flutter.dev/) y [.NET Framework](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 
 ## __Portfolio personal__
-En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, etc, que considere interesantes.
+En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, ejercicios, etc de algunos proyectos que me entusiasmen y me sirvan para mejorar.
+
 - (En proceso) - Microservicio de autenticación en Node + Express. [Repo](https://github.com/pabloMoron/auth_node)
