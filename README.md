@@ -5,7 +5,7 @@ Esta es mi perfil de desarrollador, si están interesados siéntase libre de pon
 
 __Email__: moronpablo94@gmail.com
 
-__Linkedin__:  [linkedin.com](https://www.linkedin.com/in/pablo-gabriel-moron-085611126/)
+__Linkedin__:  [linkedin.com](https://www.linkedin.com/in/pablo-gabriel-moron/)
 
 __WhatsApp Telegram y teléfono__: +54 263 4930546
 
