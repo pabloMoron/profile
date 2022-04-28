@@ -7,8 +7,6 @@ __Email__: moronpablo94@gmail.com
 
 __Linkedin__:  [linkedin.com](https://www.linkedin.com/in/pablo-gabriel-moron/)
 
-__WhatsApp Telegram y teléfono__: +54 263 4930546
-
 __Ubicación__: La Colonia, Junin, Mendoza, Argentina.
 
 __Idiomas__: Español nativo, Ingles.
