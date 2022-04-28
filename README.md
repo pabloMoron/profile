@@ -49,3 +49,5 @@ TODOPM
 En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, ejercicios, etc de algunos proyectos que me entusiasmen y me sirvan para mejorar.
 
 - (En proceso) - Microservicio de autenticación en Node + Express. [Repo](https://github.com/pabloMoron/auth_node)
+
+- Ejemplo de inyección de dependencias en .NET 6. [Repo](https://github.com/pabloMoron/dependency_injection)
