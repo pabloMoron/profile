@@ -48,4 +48,4 @@ En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, e
 
 - (En proceso) - Microservicio de autenticación en Node + Express. [Repo](https://github.com/pabloMoron/auth_node)
 
-- Ejemplo de inyección de dependencias en .NET 6. [Repo](https://github.com/pabloMoron/dependency_injection)
+- Ejemplo de inyección de dependencias en .NET Core. [Repo](https://github.com/pabloMoron/dependency_injection)
