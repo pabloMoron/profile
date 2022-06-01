@@ -11,8 +11,6 @@ __Ubicación__: La Colonia, Junin, Mendoza, Argentina.
 
 __Idiomas__: Español nativo, Ingles.
 
-__Fecha de nacimiento__: 26-01-1994
-
 ## Formación Académica
 
 __UTN Universidad Tecnológica Nacional, Facultad Regional Mendoza.__
@@ -26,22 +24,27 @@ Soy un apasionado de la tecnología, especialmente en el desarrollo de software,
 Estas son las tecnologías con las que he trabajado:
 
 - Junior Developer: [Flutter](https://flutter.dev/) (Framework creado por Google para el desarrollo de aplicaciones móviles para Android e IOS)
-- Full Stack Developer: [.NET Framework](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
-- Otras tecnologías utilizadas con fines académicos: Stack MERN ([Mongo](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://reactjs.org/), [Node js](https://nodejs.org/)); [Java](https://www.java.com/), [Redis](https://redis.io/), [RabbitMQ](https://www.rabbitmq.com/),  [Docker](https://www.docker.com/)
-- Actualmente aprendiendo a desarrollar aplicaciones Cross Platform con [Electron js](https://www.electronjs.org/)
+- Full Stack Developer: [.NET Framework, .NET Core](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+- Otras tecnologías utilizadas con fines académicos:[Mongo](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://reactjs.org/), [Node js](https://nodejs.org/); [Java](https://www.java.com/), [Redis](https://redis.io/), [RabbitMQ](https://www.rabbitmq.com/),  [Docker](https://www.docker.com/)
+<!-- - Actualmente aprendiendo a desarrollar aplicaciones Cross Platform con [Electron js](https://www.electronjs.org/) -->
 
 <!-- ## Mis intereses
-TODOPM  
+TODO
 -->
 
 ## __Experiencia Laboral__
 
 ### Consensus
  - Sitio: [cstechlab.com](https://cstechlab.com/)
- - Nivel: Trainee, Junior, Ssr
- - Duración: 2020 - Actual
- - Rol: Desarrollador Mobile, Desarrollador Full Stack
+ - Duración: Marzo 2020 - Agosto 2020
+ - Rol: Desarrollador Trainee, Junior
  - Tecnologías: [Flutter](https://flutter.dev/) y [.NET Framework](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+
+### Consensus
+-  Sitio: [cstechlab.com](https://cstechlab.com/)
+ - Duración: Agosto 2020 - ACTUAL
+ - Rol: Desarrollador FullStack SSr
+ - Tecnologías: [.NET Framework](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019) + HTML + CSS + JavaScript.
 
 ## __Portfolio personal__
 En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, ejercicios, etc de algunos proyectos que me entusiasmen y me sirvan para mejorar.
@@ -49,3 +52,5 @@ En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, e
 - (En proceso) - Microservicio de autenticación en Node + Express. [Repo](https://github.com/pabloMoron/auth_node)
 
 - Ejemplo de inyección de dependencias en .NET Core. [Repo](https://github.com/pabloMoron/dependency_injection)
+
+- Ejemplo de implementacion de Entity Framework Core. [Repo](https://github.com/pabloMoron/efcore_lessons) 
