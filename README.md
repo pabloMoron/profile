@@ -42,9 +42,14 @@ TODO
 
 ### Consensus
 -  Sitio: [cstechlab.com](https://cstechlab.com/)
- - Duración: Agosto 2020 - ACTUAL
+ - Duración: Agosto 2020 - Octubre 2022
  - Rol: Desarrollador FullStack SSr
  - Tecnologías: [.NET Framework](https://dotnet.microsoft.com/) + [SQLServer](https://www.microsoft.com/en-us/sql-server/sql-server-2019) + HTML + CSS + JavaScript.
+
+### Mercadolibre
+ - Duración: Octubre 2020 - ACTUAL
+ - Rol: Software Engineer
+ - Tecnologías: [Mongo](https://www.mongodb.com/), [Express](https://expressjs.com/), [Node js](https://nodejs.org/), [RabbitMQ](https://www.rabbitmq.com/),  [Docker](https://www.docker.com/)Est + A veces aporto alguna tarea minima de front en  [React](https://reactjs.org/), HTML + CSS + Typescript.
 
 ## __Portfolio personal__
 En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, ejercicios, etc de algunos proyectos que me entusiasmen y me sirvan para mejorar.
