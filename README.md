@@ -1,13 +1,11 @@
 # Pablo Gabriel Morón
-Esta es mi perfil de desarrollador, si están interesados siéntase libre de ponerse en contacto conmigo.
-
 ### Información de contacto
 
 __Email__: moronpablo94@gmail.com
 
 __Linkedin__:  [linkedin.com](https://www.linkedin.com/in/pablo-gabriel-moron/)
 
-__Ubicación__: La Colonia, Junin, Mendoza, Argentina.
+__Ubicación__: Ciudad de Mendoza, Mendoza, Argentina.
 
 __Idiomas__: Español nativo, Ingles.
 
@@ -15,7 +13,7 @@ __Idiomas__: Español nativo, Ingles.
 
 __UTN Universidad Tecnológica Nacional, Facultad Regional Mendoza.__
 
-Ingeniería en Sistemas de Información (Último año en curso)
+Ingeniería en Sistemas de Información.
 
 ## Resumen de trabajo
 
@@ -49,8 +47,9 @@ TODO
 ### Mercadolibre
  - Duración: Octubre 2020 - ACTUAL
  - Rol: Software Engineer
- - Tecnologías: [Mongo](https://www.mongodb.com/), [Express](https://expressjs.com/), [Node js](https://nodejs.org/), [RabbitMQ](https://www.rabbitmq.com/),  [Docker](https://www.docker.com/)Est + A veces aporto alguna tarea minima de front en  [React](https://reactjs.org/), HTML + CSS + Typescript.
+ - Tecnologías: [Mongo](https://www.mongodb.com/), [Express](https://expressjs.com/), [Node js](https://nodejs.org/), [RabbitMQ](https://www.rabbitmq.com/),  [Docker](https://www.docker.com/). A veces aporto alguna tarea minima de front en  [React](https://reactjs.org/), HTML + CSS + Typescript.
 
+<!--
 ## __Portfolio personal__
 En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, ejercicios, etc de algunos proyectos que me entusiasmen y me sirvan para mejorar.
 
@@ -59,3 +58,5 @@ En esta sección iré colocando algunos desarrollos, mini proyectos, ejemplos, e
 - Ejemplo de inyección de dependencias en .NET Core. [Repo](https://github.com/pabloMoron/dependency_injection)
 
 - Ejemplo de implementacion de Entity Framework Core. [Repo](https://github.com/pabloMoron/efcore_lessons) 
+
+-->
